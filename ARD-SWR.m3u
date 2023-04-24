@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SWR1 BW" tvg-logo="https://www.swr.de/unternehmen/kommunikation/1653432715862%2Clogos-swr1-116~_v-16x9@2dM_-ad6791ade5eb8b5c935dd377130b903c4b5781d8.jpg" tvg-id="swr1bw.de" group-title="ARD-SWR", SWR1 BW
+https://liveradio.swr.de/sw331ch/swr1bw/play.aac
+#EXTINF:-1 tvg-name="SWR1 RP" tvg-logo="https://www.swr.de/unternehmen/kommunikation/1653432715862%2Clogos-swr1-116~_v-16x9@2dM_-ad6791ade5eb8b5c935dd377130b903c4b5781d8.jpg" tvg-id="swr1rp.de" group-title="ARD-SWR", SWR1 RP
+https://liveradio.swr.de/sw331ch/swr1rp/play.aac
+#EXTINF:-1 tvg-name="  SWR2  " tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687439577%2Clogos-swr2-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr2.de" group-title="ARD-SWR", SWR2
+https://liveradio.swr.de/sw282p3/swr2/play.mp3
+#EXTINF:-1 tvg-name="  SWR3  " tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687420784%2Clogos-swr3-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr3.de" group-title="ARD-SWR", SWR3
+https://liveradio.swr.de/sw331ch/swr3/play.aac
+#EXTINF:-1 tvg-name="SWR4 FN" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 FN
+https://liveradio.swr.de/sw331ch/swr4fn/play.aac
+#EXTINF:-1 tvg-name="SWR4 FR" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 FR
+https://liveradio.swr.de/sw331ch/swr4fr/play.aac
+#EXTINF:-1 tvg-name="SWR4 MA" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 MA
+https://liveradio.swr.de/sw331ch/swr4ma/play.aac
+#EXTINF:-1 tvg-name="SWR4 HN" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 HN
+https://liveradio.swr.de/sw331ch/swr4hn/play.aac
+#EXTINF:-1 tvg-name="SWR4 KA" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 KA
+https://liveradio.swr.de/sw331ch/swr4ka/play.aac
+#EXTINF:-1 tvg-name=" SWR4 S " tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 S
+https://liveradio.swr.de/sw331ch/swr4bw/play.aac
+#EXTINF:-1 tvg-name="SWR4 TU" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 TU
+https://liveradio.swr.de/sw331ch/swr4tu/play.aac
+#EXTINF:-1 tvg-name="SWR4 UL" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 UL
+https://liveradio.swr.de/sw331ch/swr4ul/play.aac
+#EXTINF:-1 tvg-name="SWR4 KO" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 KO
+https://liveradio.swr.de/sw331ch/swr4ko/play.aac
+#EXTINF:-1 tvg-name="SWR4 MZ" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 MZ
+https://liveradio.swr.de/sw331ch/swr4rp/play.aac
+#EXTINF:-1 tvg-name="SWR4 TR" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 TR
+https://liveradio.swr.de/sw331ch/swr4tr/play.aac
+#EXTINF:-1 tvg-name="SWR4 KL" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 KL
+https://liveradio.swr.de/sw331ch/swr4kl/play.aac
+#EXTINF:-1 tvg-name="SWR4 LU" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 LU
+https://liveradio.swr.de/sw331ch/swr4lu/play.aac
+#EXTINF:-1 tvg-name="DASDING" tvg-logo="https://www.swr.de/unternehmen/kommunikation/1652361789695%2Clogos-dasding-108~_v-16x9@2dM_-ad6791ade5eb8b5c935dd377130b903c4b5781d8.jpg" tvg-id="dasding.de" group-title="ARD-SWR", DASDING
+https://liveradio.swr.de/sw331ch/dasding/play.aac
+#EXTINF:-1 tvg-name="SWR Aktuell" tvg-logo="https://www.swr.de/assets/images/swr/logos/2021/swr-aktuell-logo-1z.svg" tvg-id="swraktuell.de" group-title="ARD-SWR", SWR Aktuell
+https://liveradio.swr.de/sw331ch/swraktuell/play.aac
+#EXTINF:-1 tvg-name="SWR Event 01" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687429173%2Clogos-unternehmensmarke-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.jpg" tvg-id="swr.de" group-title="ARD-SWR", SWR Event 01
+https://liveradio.swr.de/sw331ch/event01/play.aac
