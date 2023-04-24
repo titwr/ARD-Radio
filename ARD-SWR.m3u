@@ -40,5 +40,4 @@ https://liveradio.swr.de/sw331ch/swraktuell/play.m3u
 #EXTINF:-1 tvg-name="SWR Event 01" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687429173%2Clogos-unternehmensmarke-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.jpg" tvg-id="swr.de" group-title="ARD-SWR", SWR Event 01
 https://liveradio.swr.de/sw331ch/event01/play.m3u
 #EXTINF:-1 tvg-name="Test" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687429173%2Clogos-unternehmensmarke-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.jpg" tvg-id="swr.de" group-title="ARD-SWR", TEst
-
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
