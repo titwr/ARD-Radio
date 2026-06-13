@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,SWR1 BW
-https://swr-radio.ard-mcdn.de/swr/radio/swr1bw/hls/192/seglist.m3u8
+http://swr-radio.ard-mcdn.de/swr/radio/swr1bw/hls/192/seglist.m3u8
 #EXTINF:-1,SWR1 RP
-https://swr-radio.ard-mcdn.de/swr/radio/swr1rp/hls/master.m3u8
+http://swr-radio.ard-mcdn.de/swr/radio/swr1rp/hls/master.m3u8
 #EXTINF:-1,SWR Kultur
 https://swr-radio.ard-mcdn.de/swr/radio/swrkultur/hls/master.m3u8
 #EXTINF:-1,SWR3
