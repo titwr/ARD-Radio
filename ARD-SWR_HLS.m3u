@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SWR1 BW" tvg-logo="https://www.swr.de/unternehmen/kommunikation/1653432715862%2Clogos-swr1-116~_v-16x9@2dM_-ad6791ade5eb8b5c935dd377130b903c4b5781d8.jpg" tvg-id="swr1bw.de" group-title="ARD-SWR", SWR1 BW
+#EXTINF:-1,SWR1 BW
 https://swr-radio.ard-mcdn.de/swr/radio/swr1bw/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR1 RP" tvg-logo="https://www.swr.de/unternehmen/kommunikation/1653432715862%2Clogos-swr1-116~_v-16x9@2dM_-ad6791ade5eb8b5c935dd377130b903c4b5781d8.jpg" tvg-id="swr1rp.de" group-title="ARD-SWR", SWR1 RP
+#EXTINF:-1,SWR1 RP
 https://swr-radio.ard-mcdn.de/swr/radio/swr1rp/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR Kultur" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687439577%2Clogos-swr2-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr2.de" group-title="ARD-SWR", SWR2
+#EXTINF:-1,SWR Kultur
 https://swr-radio.ard-mcdn.de/swr/radio/swrkultur/hls/master.m3u8
-#EXTINF:-1 tvg-name="  SWR3  " tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687420784%2Clogos-swr3-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr3.de" group-title="ARD-SWR", SWR3
+#EXTINF:-1,SWR3
 https://swr-radio.ard-mcdn.de/swr/radio/swr3/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 FN" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 FN
+#EXTINF:-1,SWR4 FN
 https://swr-radio.ard-mcdn.de/swr/radio/swr4fn/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 FR" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 FR
+#EXTINF:-1,SWR4 FR
 https://swr-radio.ard-mcdn.de/swr/radio/swr4fr/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 MA" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 MA
+#EXTINF:-1,SWR4 MA
 https://swr-radio.ard-mcdn.de/swr/radio/swr4ma/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 HN" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 HN
+#EXTINF:-1,SWR4 HN
 https://swr-radio.ard-mcdn.de/swr/radio/swr4hn/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 KA" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 KA
+#EXTINF:-1,SWR4 KA
 https://swr-radio.ard-mcdn.de/swr/radio/swr4ka/hls/master.m3u8
-#EXTINF:-1 tvg-name=" SWR4 S " tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 S
+#EXTINF:-1,SWR4 S
 https://swr-radio.ard-mcdn.de/swr/radio/swr4bw/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 TU" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 TU
+#EXTINF:-1,SWR4 TU
 https://swr-radio.ard-mcdn.de/swr/radio/swr4tu/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 UL" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 UL
+#EXTINF:-1,SWR4 UL
 https://swr-radio.ard-mcdn.de/swr/radio/swr4ul/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 KO" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 KO
+#EXTINF:-1,SWR4 KO
 https://swr-radio.ard-mcdn.de/swr/radio/swr4ko/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 MZ" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 MZ
+#EXTINF:-1,SWR4 MZ
 https://swr-radio.ard-mcdn.de/swr/radio/swr4rp/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 TR" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 TR
+#EXTINF:-1,SWR4 TR
 https://swr-radio.ard-mcdn.de/swr/radio/swr4tr/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 KL" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 KL
+#EXTINF:-1,SWR4 KL
 https://swr-radio.ard-mcdn.de/swr/radio/swr4kl/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR4 LU" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687433991%2Clogos-swr4-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.png" tvg-id="swr4.de" group-title="ARD-SWR", SWR4 LU
+#EXTINF:-1,SWR4 LU
 https://swr-radio.ard-mcdn.de/swr/radio/swr4lu/hls/master.m3u8
-#EXTINF:-1 tvg-name="DASDING vom SWR" tvg-logo="https://www.swr.de/unternehmen/kommunikation/1652361789695%2Clogos-dasding-108~_v-16x9@2dM_-ad6791ade5eb8b5c935dd377130b903c4b5781d8.jpg" tvg-id="dasding.de" group-title="ARD-SWR", DASDING
+#EXTINF:-1,DASDING vom SWR
 https://swr-radio.ard-mcdn.de/swr/radio/dasding/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR Aktuell" tvg-logo="https://www.swr.de/assets/images/swr/logos/2021/swr-aktuell-logo-1z.svg" tvg-id="swraktuell.de" group-title="ARD-SWR", SWR Aktuell
+#EXTINF:-1,SWR Aktuell
 https://swr-radio.ard-mcdn.de/swr/radio/swraktuell/hls/master.m3u8
-#EXTINF:-1 tvg-name="SWR Event 01" tvg-logo="https://www.swr.de/unternehmen/kommunikation/service/1654687429173%2Clogos-unternehmensmarke-100~_v-16x9@2dS_-6be50a9c75559ca1aaf1d0b25bae287afdcd877a.jpg" tvg-id="swr.de" group-title="ARD-SWR", SWR Event 01
+#EXTINF:-1,SWR Event 01
 https://swr-radio.ard-mcdn.de/swr/radio/event01/hls/master.m3u8
